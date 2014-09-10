@@ -13,14 +13,21 @@ namespace Reto1ClassLibrary
 
         public override bool Equals(object obj)
         {
+            if (obj == null)
+            {
+                return false;
+            }
             Persona auxPersona = obj as Persona;
-
+            if (auxPersona == null)
+            {
+                return false;
+            }
             return this.Nombre == auxPersona.Nombre && this.Edad == auxPersona.Edad;
         }
 
         public override int GetHashCode()
         {
-            return base.GetHashCode();
+            return Tuple.Create(this.Nombre,this.Edad).GetHashCode();
         }
     }
 }
