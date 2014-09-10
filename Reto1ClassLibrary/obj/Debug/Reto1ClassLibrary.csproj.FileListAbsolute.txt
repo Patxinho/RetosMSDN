@@ -1,5 +1,0 @@
-c:\Users\Santiago\documents\visual studio 2013\Projects\Reto1\Reto1ClassLibrary\bin\Debug\Reto1ClassLibrary.dll
-c:\Users\Santiago\documents\visual studio 2013\Projects\Reto1\Reto1ClassLibrary\bin\Debug\Reto1ClassLibrary.pdb
-c:\Users\Santiago\documents\visual studio 2013\Projects\Reto1\Reto1ClassLibrary\obj\Debug\Reto1ClassLibrary.csprojResolveAssemblyReference.cache
-c:\Users\Santiago\documents\visual studio 2013\Projects\Reto1\Reto1ClassLibrary\obj\Debug\Reto1ClassLibrary.dll
-c:\Users\Santiago\documents\visual studio 2013\Projects\Reto1\Reto1ClassLibrary\obj\Debug\Reto1ClassLibrary.pdb
